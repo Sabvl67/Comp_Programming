@@ -3,6 +3,10 @@
 #include <queue>
 using namespace std;
 
+
+// https://www.spoj.com/problems/AAC1/
+
+
 int main() {
     ios::sync_with_stdio(false);
     cin.tie(nullptr);
